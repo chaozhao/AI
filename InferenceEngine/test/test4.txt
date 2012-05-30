@@ -1,0 +1,4 @@
+TELL
+croaks & eats_flies => frog; chirps & sings => canary; frog =>green;canary => yellow;chirps;sings;
+ASK
+yellow

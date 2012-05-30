@@ -1,0 +1,4 @@
+TELL
+B&C=>G;A&G=>I;D&G=>J;E=>C;D&C=>K;F=>C;A;C;
+ASK
+F

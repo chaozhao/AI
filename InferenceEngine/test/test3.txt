@@ -1,0 +1,4 @@
+TELL
+smoke => fire; fire & casualty => disaster; disaster => costly; disaster => needsRebuilding; needsRebuilding => costly; smoke; casualty; sabotage;
+ASK
+costly
