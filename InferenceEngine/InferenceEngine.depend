@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1337753034 source:c:\projects\ai\inferenceengine\clause.cpp
+	"clause.h"
+
+1337753034 c:\projects\ai\inferenceengine\clause.h
+	"symbol.h"
+	<vector>
+
+1337429436 c:\projects\ai\inferenceengine\symbol.h
+	<iostream>
+	<string>
+
+1337753067 source:c:\projects\ai\inferenceengine\forwardchain.cpp
+	"forwardchain.h"
+
+1337426803 c:\projects\ai\inferenceengine\forwardchain.h
+	"knowledgebase.h"
+
+1337753034 c:\projects\ai\inferenceengine\knowledgebase.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	"symbol.h"
+	"Clause.h"
+
+1337753737 source:c:\projects\ai\inferenceengine\knowledgebase.cpp
+	"KnowledgeBase.h"
+
+1337755682 source:c:\projects\ai\inferenceengine\main.cpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"KnowledgeBase.h"
+	"TruthTable.h"
+	"backwardchain.h"
+	"forwardchain.h"
+
+1337448030 c:\projects\ai\inferenceengine\truthtable.h
+	"symbol.h"
+	<vector>
+	"KnowledgeBase.h"
+
+1337498442 c:\projects\ai\inferenceengine\backwardchain.h
+	"knowledgebase.h"
+	"symbol.h"
+	<vector>
+	<stack>
+
+1337429455 source:c:\projects\ai\inferenceengine\symbol.cpp
+	"symbol.h"
+
+1337753131 source:c:\projects\ai\inferenceengine\truthtable.cpp
+	"TruthTable.h"
+
+1337753370 source:c:\projects\ai\inferenceengine\backwardchain.cpp
+	"backwardchain.h"
+
